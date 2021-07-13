@@ -5,8 +5,9 @@ The library is designed to read large xml files
 
 There are two methods to read a xml data:
 
-1. Parsing and loading the result to the memory (TsanXMLObject)
-2. The event-driven parser, sequential reading of xml elements and call of corresponding events
+1. Parsing and loading the result to the memory
+2. The event-driven parser, sequential reading of xml elements and 
+   call of corresponding events
 
 Support encodings:
 UTF-8, UTF-16BE, UTF16-LE
