@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.258,=C:\Users\ALEKSEY\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.914,=C:\Users\ALEKSEY\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.803,=C:\Users\ALEKSEY\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.715,C:\Users\ALEKSEY\Documents\RAD Studio\Projects\Unit1.pas=D:\Smn_work_2\DelphiXE2\Examples\MyXMLParser\GITHUB\Examples\test01\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.920,=C:\Users\ALEKSEY\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.702,=C:\Users\ALEKSEY\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.715,C:\Users\ALEKSEY\Documents\RAD Studio\Projects\Unit1.dfm=D:\Smn_work_2\DelphiXE2\Examples\MyXMLParser\GITHUB\Examples\test01\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.444,C:\Users\ALEKSEY\Documents\RAD Studio\Projects\Project1.dproj=D:\Smn_work_2\DelphiXE2\Examples\MyXMLParser\GITHUB\Examples\test01\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.726,=D:\Smn_work_2\DelphiXE2\Examples\MyXMLParser\GITHUB\Source\semin64.memory.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.792,=D:\Smn_work_2\DelphiXE2\Examples\MyXMLParser\GITHUB\Source\semin64.xml.pas</Transaction>
+    <Transaction>2021.07.09 23:01:53.659,=N:\GITHUB\XML Parser\Source\semin64.xml.ansi.pas</Transaction>
+  </Transactions>
+</BorlandProject>
