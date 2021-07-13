@@ -18,14 +18,15 @@ WINDOWS-1256, WINDOWS-1257, WINDOWS-1258, ISO-8859-1, ISO-8859-2, ISO-8859-3, IS
 ISO-8859-6, ISO-8859-7, ISO-8859-8, ISO-8859-9
 
 Examples:
-test01_read_xml - Parsing a xml file and put the result to the memory (TsanXMLObject)
-test02_read_xml_ansi - read a xml file (encoding: WINDOWS-1251)
-test03_parse_events - Event-driven parser (TsanXMLParser)
+1. test01_read_xml - Parsing a xml file and put the result to the memory (TsanXMLObject)
+2. test02_read_xml_ansi - read a xml file (encoding: WINDOWS-1251)
+3. test03_parse_events - Event-driven parser (TsanXMLParser)
+4. test04_big_xml - Parsing a big xml file
 
-Модули:
-semin64.xml.pas - main module
-semin64.xml.ansi.pas - support ansi encoding
-semin64.memory.pas  - Stack memory manager, it is used inside semin64.xml.pas
+Sources:
+1. semin64.xml.pas - main module
+2. semin64.xml.ansi.pas - support ansi encoding
+3. semin64.memory.pas  - Stack memory manager, it is used inside semin64.xml.pas
 
 My contact:
 semin.aleksey1@yandex.ru
