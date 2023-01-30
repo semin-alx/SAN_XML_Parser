@@ -33,6 +33,8 @@ unit semin64.xml;
 
   ============================================================================= }
 
+// 30.01.2023 fix  TsanXMLReader.DefineXMLEncoding
+//   The encoding can be specified in any case
 
 interface
 
@@ -599,7 +601,9 @@ begin
      (AnsiChar(FBuffer[1]) = '?')
   then begin
 
-    CharacterEncoding:= CharacterEncodingFromXMLDecl;
+    // fix 30/01/2023
+    //CharacterEncoding:= CharacterEncodingFromXMLDecl;
+    CharacterEncoding:= UpperCase(CharacterEncodingFromXMLDecl);
 
     if (CharacterEncoding = 'UTF-8') or (CharacterEncoding = '') then begin
       FEncoding:= cUTF8;
